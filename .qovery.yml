@@ -1,0 +1,11 @@
+---
+application:
+  name: "vcplaybotop"
+  project: "Musicbot patrici"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-vcplaybotop"
+  routes:
+  - application_name: "vcplaybotop"
+    paths:
+    - "/*"
